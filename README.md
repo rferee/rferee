@@ -1,12 +1,14 @@
 ```
 Hi, my name is @rferee.
 
-> About me
+Nothing special to see here, really.
+
+> About me:
   Languages:          Russian (Native), English (B2-C1)
   Real Name:          [REDACTED]
   Location:           Minsk, Belarus
   Education:          N/A
-  Interests:          Constantly evolving, for now: NLP, datamining & modding
+  Interests:          Constantly evolving, for now: NLP, datamining & modding.
   
 > Development stack:
   Languages:          Java (Primarily), C# (Secondary)
@@ -30,10 +32,16 @@ Hi, my name is @rferee.
   Other tools:        JetBrains DataGrip, Adobe XD
 
 > How can you reach me?
-  Email:              contact@rferee.dev (abuse@rferee.dev for licensing violations and other issues)
+  Email:              contact@rferee.dev  (for general information & inquiries)
+                      abuse@rferee.dev    (for licensing, copyright and other violations)
   Telegram:           @MIPSBE
   Discord:            rain#2864
   Matrix:             N/A
+  
+> Support / Donations:
+  ETH: 0x36188414b155A8669963C7c12475bc452484c83c
+  
+  Yes, that's it.
   
 > Hiring?
   Available as a freelancer. Can and will make anything mentioned above.
